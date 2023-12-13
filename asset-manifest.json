@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proyfinal/static/css/main.3ac6688e.css",
+    "main.js": "/proyfinal/static/js/main.228af262.js",
+    "static/js/787.df222e76.chunk.js": "/proyfinal/static/js/787.df222e76.chunk.js",
+    "static/media/backpag7.jpg": "/proyfinal/static/media/backpag7.cd10a94e96d41a47c4e1.jpg",
+    "static/media/backpag5.jpg": "/proyfinal/static/media/backpag5.a6d8e1f4ed27ec6e9d17.jpg",
+    "static/media/backpag4.jpg": "/proyfinal/static/media/backpag4.a53e6811f1a249283490.jpg",
+    "static/media/headerimg.jpg": "/proyfinal/static/media/headerimg.da7415c7deb8a9bbfbaf.jpg",
+    "static/media/backpag1.jpg": "/proyfinal/static/media/backpag1.187d85c49acebb9ef430.jpg",
+    "static/media/AlfaSlabOne-Regular.ttf": "/proyfinal/static/media/AlfaSlabOne-Regular.76486fb5cc170dab15a5.ttf",
+    "static/media/backpag3.jpeg": "/proyfinal/static/media/backpag3.61f9d7b7cab9096de245.jpeg",
+    "index.html": "/proyfinal/index.html",
+    "main.3ac6688e.css.map": "/proyfinal/static/css/main.3ac6688e.css.map",
+    "main.228af262.js.map": "/proyfinal/static/js/main.228af262.js.map",
+    "787.df222e76.chunk.js.map": "/proyfinal/static/js/787.df222e76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac6688e.css",
+    "static/js/main.228af262.js"
+  ]
+}
